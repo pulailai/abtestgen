@@ -1,6 +1,6 @@
 package com.fangyou.abtestgen;
 
-import com.fangyou.abtestgen.Interceptor.FeignRequestInterceptor;
+import com.fangyou.abtestgen.interceptor.FeignRequestInterceptor;
 import com.fangyou.abtestgen.filters.HttpRequestHeaderFilter;
 import com.fangyou.abtestgen.ribbon.rule.GrayscaleRule;
 import feign.Feign;

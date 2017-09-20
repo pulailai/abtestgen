@@ -1,4 +1,4 @@
-package com.fangyou.abtestgen.Interceptor;
+package com.fangyou.abtestgen.interceptor;
 
 import com.fangyou.abtestgen.HeaderContext;
 import feign.RequestInterceptor;
