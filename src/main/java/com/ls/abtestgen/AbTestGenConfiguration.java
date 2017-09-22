@@ -1,8 +1,8 @@
-package com.fangyou.abtestgen;
+package com.ls.abtestgen;
 
-import com.fangyou.abtestgen.interceptor.FeignRequestInterceptor;
-import com.fangyou.abtestgen.filters.HttpRequestHeaderFilter;
-import com.fangyou.abtestgen.ribbon.rule.GrayscaleRule;
+import com.ls.abtestgen.interceptor.FeignRequestInterceptor;
+import com.ls.abtestgen.filters.HttpRequestHeaderFilter;
+import com.ls.abtestgen.ribbon.rule.GrayscaleRule;
 import feign.Feign;
 import feign.RequestInterceptor;
 import io.jmnarloch.spring.cloud.ribbon.rule.DiscoveryEnabledRule;

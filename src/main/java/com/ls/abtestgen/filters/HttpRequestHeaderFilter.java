@@ -1,7 +1,7 @@
-package com.fangyou.abtestgen.filters;
+package com.ls.abtestgen.filters;
 
 
-import com.fangyou.abtestgen.HeaderContext;
+import com.ls.abtestgen.HeaderContext;
 
 import javax.servlet.*;
 import javax.servlet.http.HttpServletRequest;

@@ -1,6 +1,6 @@
-package com.fangyou.abtestgen.interceptor;
+package com.ls.abtestgen.interceptor;
 
-import com.fangyou.abtestgen.HeaderContext;
+import com.ls.abtestgen.HeaderContext;
 import feign.RequestInterceptor;
 import feign.RequestTemplate;
 import lombok.extern.slf4j.Slf4j;

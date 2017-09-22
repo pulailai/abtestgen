@@ -1,4 +1,4 @@
-package com.fangyou.abtestgen;
+package com.ls.abtestgen;
 
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;

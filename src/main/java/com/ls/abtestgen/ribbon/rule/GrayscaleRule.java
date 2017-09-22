@@ -1,7 +1,7 @@
-package com.fangyou.abtestgen.ribbon.rule;
+package com.ls.abtestgen.ribbon.rule;
 
 
-import com.fangyou.abtestgen.ribbon.predicate.GrayscalePredicate;
+import com.ls.abtestgen.ribbon.predicate.GrayscalePredicate;
 import io.jmnarloch.spring.cloud.ribbon.predicate.DiscoveryEnabledPredicate;
 import io.jmnarloch.spring.cloud.ribbon.rule.DiscoveryEnabledRule;
 

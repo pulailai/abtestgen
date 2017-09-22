@@ -1,4 +1,4 @@
-package com.fangyou.abtestgen;
+package com.ls.abtestgen;
 
 /**
  * Created by jimmy on 17/9/7.

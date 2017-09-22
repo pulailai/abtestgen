@@ -1,9 +1,9 @@
-package com.fangyou.abtestgen.ribbon.predicate;
+package com.ls.abtestgen.ribbon.predicate;
 
 
-import com.fangyou.abtestgen.AbTestGenConfiguration;
-import com.fangyou.abtestgen.Constants;
-import com.fangyou.abtestgen.HeaderContext;
+import com.ls.abtestgen.AbTestGenConfiguration;
+import com.ls.abtestgen.Constants;
+import com.ls.abtestgen.HeaderContext;
 import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.CacheLoader;
 import com.google.common.cache.LoadingCache;
